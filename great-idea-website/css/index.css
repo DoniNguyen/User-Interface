@@ -64,3 +64,95 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body{
+	margin:0% 10%;
+}
+
+.navigation{
+	display:inline-block;
+	position:relative;
+	padding:45px;
+	bottom:30px;
+	opacity:.6;
+}
+
+img.logo{
+	position:absolute;
+	left:1050px;
+	top:13px;
+}
+
+.circle-one{
+	position:relative;
+	left:800px;
+	bottom:250px;
+}
+
+header{
+	position:relative;
+	font-family: 'bangers';
+	font-weight:400;
+	font-size:70px;
+}
+
+div.inno{
+	display:block;
+	position:relative;
+}
+
+
+img.middle-img{
+	display:block;
+	align-content: center;
+}
+
+.on{
+	margin-left:80px;
+}
+
+.demand{
+	margin-left:38px;
+}
+
+.started{
+	border-style:solid
+	border-color: grey;
+}
+
+.head{
+	display:inline-block;
+	font-family: 'bangers';
+}
+
+.top-content{
+	display:inline-block;
+	position:relative;
+	margin:30px 100px;
+}
+
+p{
+	margin:10px;
+}
+
+.top-content{
+	column-count:2;
+	column-width:200px;
+}
+
+p.top-one{
+	margin-left:20px;
+}
+
+.bottom-content{
+	column-count:3;
+}
+
+section.contact{
+	display:block;
+}
+
+footer{
+	text-align: center; 
+}
+
